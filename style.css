@@ -1,0 +1,53 @@
+p {
+	color:white;
+	font-size: 35px;
+	padding-left: 200px;
+	padding-top: 20px;
+}
+
+p2 {
+	color: #3b5998;
+	font-size: 30px;
+	padding-left: 565px;
+
+}
+
+header {
+	background: #415e9b;
+	height: 80px;
+	border-bottom: 1px solid #133783;
+}
+
+.box
+{
+	position: absolute;
+	top: 30%;
+	left:30%;
+	height: 284px;
+	background: #fff;
+
+}
+
+
+label {
+	margin-left: 150px;
+}
+
+
+.form-control
+{
+	width: 310px;
+	height: 30px;
+	display: block;
+	margin-left: 150px;
+}
+
+.btn-primary
+{
+	width: 310px;
+	height: 50px;
+	border: 0;
+	margin-left: 150px;
+	color: #fff;
+	background: #3b5998;
+}
